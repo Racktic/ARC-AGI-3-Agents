@@ -21,3 +21,7 @@ tests/recordings/not-a-recording.txt
 memory.db
 
 environment_files/
+
+.claude
+.venv
+memruns/

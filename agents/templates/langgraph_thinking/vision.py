@@ -2,6 +2,8 @@
 Helpers for working with game frames.
 """
 
+from __future__ import annotations
+
 import base64
 import json
 from io import BytesIO
